@@ -14,4 +14,9 @@
 /log/*.log
 /tmp
 
+# Ignore all vim temp files
+*~
 
+#Also all those pesky swp files
+*.swp
+*.swo
